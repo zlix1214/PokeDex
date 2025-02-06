@@ -443,7 +443,15 @@ body {
 }
 
 .pokemon-detail-wrapper {
-  min-height: 76px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 預設為三行 */
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .pokemon-detail-wrapper {
+    grid-template-columns: 1fr; /* 螢幕寬度小於 768px 時變為一行 */
+  }
 }
 
 .pokemon-detail.move {
