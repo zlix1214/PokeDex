@@ -364,8 +364,8 @@ body {
 }
 
 .detail-img-wrapper {
-  width: 200px;
-  height: 200px;
+  width: 80%;
+  height: 80%;
   margin: auto;
   position: relative;
   z-index: 3;
