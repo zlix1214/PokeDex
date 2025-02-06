@@ -157,7 +157,7 @@ const Detail = () => {
   const capitalizePokemonName = capitalizeFirstLetter(name);
 
   return (
-    <main className={`detail-main main ${name.toLowerCase()}`}>
+    <main className={`detail-main main  ${name.toLowerCase()}`}>
       <header className="header">
         <div className="header-wrapper">
           <div className="header-wrap">
