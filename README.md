@@ -1,7 +1,8 @@
-![預覽圖片](your-image-url-here)
+![project banner](/project-1-1.png)
 
 這是一個基於 **React** 和 **Tailwind CSS** 開發的 Pokedex 應用，允許用戶在線查詢寶可夢的詳細資訊。透過 **PokeAPI** 獲取數據，並根據寶可夢的屬性改變頁面背景與能力值顏色。
 
+# PokeDex App
 
 ## 🌍 部署
 此專案已部署於 Vercel，透過以下連結直接訪問：
@@ -22,13 +23,13 @@
 - **狀態管理**：React Hooks
 - **部署平台**：Vercel
 
-## 學習資源 📖
+## 📖 學習資源
 [Build a Pokedex with Vanilla HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=56VjdqcdakQ&list=PLbwZ-6yH1AZpkZmWhUX5nMb4ttMPxTqh-&index=16)<br>
 教學影片使用原生JavaScript來製作，所以我試著將功能整合成react組件並融合tailwindcss
 
 ## 🚀 安裝與運行
 
-### 1. 克隆專案
+### 1. clone專案
 ```bash
 git clone https://github.com/PokeDex.git
 cd PokeDex
