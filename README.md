@@ -6,7 +6,8 @@
 
 ## 🌍 部署
 此專案已部署於 Vercel，透過以下連結直接訪問：
-👉 [PokeDex](https://poke-dex-azure.vercel.app/)
+👉 [PokeDex](https://poke-dex-azure.vercel.app/) </br>
+原生HTML CSS JavaScript 版本 👉 https://github.com/zlix1214/pokedexTest
 
 
 ## ✨ 功能特色
